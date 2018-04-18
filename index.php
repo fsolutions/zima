@@ -14,7 +14,7 @@
 	$txt3="<p>Quisque consectetur odio ut sem semper commodo. Maecenas iaculis leo a ligula euismod condimentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut enim risus, rhoncus sit amet ultricies vel, aliquet ut dolor. Duis iaculis urna vel massa ultricies suscipit. Phasellus diam sapien, fermentum a eleifend non, luctus non augue. Quisque scelerisque purus quis eros sollicitudin gravida. Aliquam erat volutpat. Donec a sem consequat tortor posuere dignissim sit amet at.</p>";
 	$txt4="<p>Quisque consectetur odio ut sem semper commodo. Maecenas iaculis leo a ligula euismod condimentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut enim risus, rhoncus sit amet ultricies vel, aliquet ut dolor. Duis iaculis urna vel massa ultricies suscipit. Phasellus diam sapien, fermentum a eleifend non, luctus non augue. Quisque scelerisque purus quis eros sollicitudin gravida. Aliquam erat volutpat. Donec a sem consequat tortor posuere dignissim sit amet at.</p>";
 	$read="<p>&not; <a href=\"#\">read more</a></p>";
-	$footer="<p>Copyright &copy; <em>minimalistica</em> &middot; Design: Luka Cvrk, <a href=\"http://www.solucija.com/\" title=\"Free CSS Templates\">Solucija</a></p>";
+	$date=date(Y);
 	$title1="<h3><a href=\"#\">Ut enim risus rhoncus</a></h3>";
 	$title2="<h3><a href=\"#\">Maecenas iaculis leo</a></h3>";
 	$title3="<h3><a href=\"#\">Quisque consectetur odio</a></h3>";
@@ -49,7 +49,7 @@
 			<?php echo $title3,$txt4,$read;?>
 		</div>
 		<div id="footer">
-		<?php echo $footer ?>
+			<p>Copyright &copy; <?php echo $date ?> <em>minimalistica</em> &middot; Design: Luka Cvrk, <a href=\"http://www.solucija.com/\" title=\"Free CSS Templates\">Solucija</a></p>
 		</div>	
 	</div>
 </body>
