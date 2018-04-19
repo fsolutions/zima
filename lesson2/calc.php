@@ -1,6 +1,9 @@
+<head>
+	<meta charset="UTF-8">
+</head>
 <h2>Calculator</h2>
+<body>
 <?
-
 function add($arg1,$arg2)
 {  
 	return $arg1+$arg2;
@@ -123,3 +126,4 @@ echo $b;
 if ($b==1 || $b==21 || $b==31 || $b==41 || $b==51) echo " минута";
   else if ($b>=2 && $b<=4 || $b>=22 && $b<=24 || $b>=32 && $b<=34 || $b>=42 && $b<=44 || $b>=52 && $b<=54) echo " минуты"; else echo " минут";
 ?>
+</body>
