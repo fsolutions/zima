@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Opel Sans";
+    src: url("../fonts/opel_sans_regular.ttf");
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("../fonts/opensans.ttf");
+}
+
+
+
+
+.menu {
+  background-color: #FFFF00;
+  height: 1024px;
+  height: 40px;
+  display: flex;
+  font-family: Opel Sans, sans-serif;
+  list-style-type: none;
+  font-size: 30px;
+  justify-content: flex-start;
+}
+
+.link{
+	text-decoration: none;
+	color: #FF7F50;
+}
+
+.link:visited:hover{
+	color: red;
+}
+
+.link:link:hover{
+	color: #87CEFA;
+}
+
+.border{
+	border: 1px solid black;
+}
+
+.border:hover{
+  border: 1px solid #F3FFFF;    
+}
+
+
+}
+
+
