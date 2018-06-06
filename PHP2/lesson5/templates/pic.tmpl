@@ -1,0 +1,20 @@
+   <div class="product">
+   <div class="view">
+  <img src="{{items}}">
+</div>
+<div class="view">
+  <div class="txt">
+    <p>name:{{names}}</p>
+    <p>price:{{price}} &euro;</p>
+  </div>
+  <div class="buy">
+  <form name="cart" method="get" action="index.php">
+   <input type="hidden" name="page" value="pic">
+  <input type="hidden" name="cart" value="true">
+  <input type="hidden" name="id" value="{{id}}">
+    <input type="submit" class="yellowbutton" value="BUY NOW">
+    </form>
+     </div>
+   </div>
+ </div>
+</div>

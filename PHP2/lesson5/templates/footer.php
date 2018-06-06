@@ -1,0 +1,121 @@
+    <div class="socialblock">
+    <div class="center">
+    <div class="social">
+      
+      <div class="brandblock">
+        <div class="center">
+         <a href="cat/kafer1.html"><img src="img/schuco.png"></a> 
+         <a href="cat/kafer1.html"><img src="img/kyosho.png"></a> 
+         <a href="cat/kafer1.html"><img src="img/norev.jpg"></a> 
+         <a href="cat/kafer1.html"><img src="img/mini.jpg"></a> 
+     </div>
+ 	   </div>   
+       <div class="insta">
+
+        <div class="instatext">
+            <div class="center">Instagram feed:#mydiecast</div>
+        </div>
+       <div class="instaintro">
+           <div class="instablock"><img src="img/in1.jpg"></div>
+           <div class="instablock"><img src="img/in2.jpg"></div>
+           <div class="instablock"><img src="img/in3.jpg"></div>
+           <div class="instablock"><img src="img/in4.jpg"></div>
+           <div class="instablock"><img src="img/in5.jpg"></div>
+           <div class="instablock"><img src="img/in6.jpg"></div>
+
+       </div>
+   </div>
+       <div class="network">
+              <div class="socialsize facebook">
+                   <img src="img/fbico.png" alt="facebook">
+              </div>
+              <div class="socialsize twitter">
+                   <img src="img/twico.png" alt="twitter">
+              </div>
+              <div class="socialsize pinterest">
+                   <img src="img/pinico.png" alt="pinterest">
+              </div>
+        </div>
+       </div>
+     </div>
+     </div>
+    </div>
+
+    <div class="footerone">
+        <div class="center">
+            <div class="footerblock">
+                
+                <div class="category sizeblock">
+                  <h2>Category</h2>  
+                  <a href="#">Home</a><br>
+                  <a href="#">About US</a><br>
+                  <a href="#">eshop</a><br>
+                  <a href="#">Features</a><br>
+                  <a href="#">New collections</a><br>
+                  <a href="#">blog</a><br>
+                  <a href="#">contact</a>
+
+                </div>
+                <div class="account sizeblock">
+                   <h2>Our Account</h2> 
+                   <a href="#">Your Account</a><br>
+                  <a href="#">Personal Information</a><br>
+                  <a href="#">Addresses</a><br>
+                  <a href="#">Discount</a><br>
+                  <a href="#">Order history</a><br>
+                  <a href="#">Search Terms</a>
+
+                </div> 
+                <div class="support sizeblock">
+                    <h2>Our Support</h2> 
+                 <a href="#">Site map</a><br>
+                  <a href="#">Search Terms</a><br>
+                  <a href="#">Advanced Search</a><br>
+                  <a href="#">Mobile</a><br>
+                  <a href="#">Contact Us</a>
+    
+                </div>
+                <div class="news sizeblock2">
+                    <h2>Newsletter</h2> 
+                    <p>Join thousands of other people subscribe to our news</p>
+                    <div class="email">
+                    <input type="email" id="email" placeholder="INSERT EMAIL" class="email">
+                    <input type="submit" value="SUBMIT" class="submit">
+                </div>
+                    <div class="pay">
+                       <div class="payico"><a href="cat/kafer1.html"><img src="img/paypal.png"></a></div>
+                       <div class="payico"><a href="cat/kafer1.html"><img src="img/visa.png"></a></div>
+                       <div class="payico"><a href="cat/kafer1.html"><img src="img/discover.png"></a></div>
+                       <div class="payico"><a href="cat/kafer1.html"><img src="img/maestero.png"></a></div> 
+                       <div class="payico"><a href="cat/kafer1.html"><img src="img/mastercard.png"></a></div>
+                       <div class="payico"><a href="cat/kafer1.html"><img src="img/aex.png"></a></div> 
+                    </div>
+                </div> 
+                <div class="about sizeblock2">
+                    <h2>About Us</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. </p>
+                    <div class="contact">Phone:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 8-916-444-44-44<br>
+                    e-mail:<a href="mailto:irbis78@yandex.ru">irbis78@yandex.ru</a></div>
+                </div>
+            </div>
+        </div>   
+    </div>
+      <div class="footertwo">
+        <div class="center">
+            <div class="footerblock2">
+                <p>2018 MYScale. All right reserver - Designed by blablabla.com</p>
+                <div class="footernetwork">
+                    <div class="footernetworkico"><a href="cat/kafer1.html"><img src="img/instaicon.png"></a> </div>
+                     <div class="footernetworkico"><a href="cat/kafer1.html"><img src="img/pinteresticon.png"></a> </div>
+                      <div class="footernetworkico"><a href="cat/kafer1.html"><img src="img/twittericon.png"></a> </div>
+                       <div class="footernetworkico"><a href="cat/kafer1.html"><img src="img/facebookicon.png"></a> </div>
+                        <div class="footernetworkico"><a href="cat/kafer1.html"><img src="img/youtubeicon.png"></a> </div>
+                </div>
+                </div>
+        </div>
+    </div>    
+  
+    	
+    
+</body>
+</html>
