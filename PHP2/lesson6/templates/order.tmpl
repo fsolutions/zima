@@ -1,0 +1,33 @@
+   <div class="product">
+<div class="view">
+  <div class="txt">
+    {% if view == false %}
+    <p> Thank you for your purchase! Your order number {{number}}</p>
+    {% else %}
+    <table border="1" width="100%" cellpadding="5">
+       <tr>
+       <th>number</th>
+       <th>name</th>
+       <th>date</th>
+       <th>status</th>
+      </tr>
+
+          <tr>
+                            <td>$number</td>
+                            <td>$name</td>
+                            <td>$date</td>
+
+<td><select>
+  <option>Pay</option>
+  <option>In Work</option>
+  <option>Finish</option>
+  <option>Cancel</option> 
+</select></td>
+                         </tr>
+   </table>
+    <input type="submit" class="yellowbutton" value="Change status">
+    {% endif %}
+  </div>
+   </div>
+ </div>
+</div>

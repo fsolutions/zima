@@ -1,0 +1,16 @@
+            <div class="product">
+              {% for item in items %}
+             <div class="blank">
+                <div class="blankintro">
+                    <a href="index.php?page=pic&id={{id[loop.index0]}}"><img src="{{item}}" alt="logo"</a>
+                </div>  
+                    <div class="name">{{names[loop.index0]}}</div>
+                     <div class="price">&euro; {{price[loop.index0]}}</div>  
+              </div>
+              {% endfor %} 
+                   <a href="index.php?page=index&list=1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Page 1</a>
+                   <a href="index.php?page=index&list=2">2</a>
+                   <a href="index.php?page=index&list=3">3</a>
+                   <a href="index.php?page=index&list=4">4</a>
+        </div> 
+       </div>
