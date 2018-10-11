@@ -1,13 +1,14 @@
 <meta charset="utf-8">
 <script>
 
-var Tc=prompt('Введите температуру в цельсиях для перевода в Фаренгейт')
+var Tc = prompt('Введите температуру в цельсиях для перевода в Фаренгейт');	//Забыли точку с запятой в конце, пробелы
 
-function getFarengeit() {
-		Tf=( 9/5 ) * Tc + 32;
-		return Tf;
-	}	
-alert(getFarengeit());
+//Входные данные типа Tc лучше передавать в функцию, иначе дело может привести к непонятным результатам
+function getFarengeit(Tc) {
+	Tf = ( 9 / 5 ) * Tc + 32;  //Пробелы
+	return Tf;
+}	
+alert(getFarengeit(Tc));
 
 
 </script>
